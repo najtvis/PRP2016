@@ -1,0 +1,3 @@
+[submodule "lib_prp"]
+	path = lib_prp
+	url = git@github.com:najtvis/lib_prp.git
